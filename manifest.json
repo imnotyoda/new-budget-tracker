@@ -1,6 +1,6 @@
 {
   "name": "Sumaray Budget",
-  "short_name": "Budget",
+  "short_name": "Budget Tracker",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -17,4 +17,5 @@
       "type": "image/png"
     }
   ]
+
 }
